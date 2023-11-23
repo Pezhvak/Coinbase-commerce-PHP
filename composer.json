@@ -1,5 +1,5 @@
 {
-    "name": "marcialpaulg/coinbase-commerce-php8",
+    "name": "pezhvak/coinbase-commerce-php",
     "description": "Coinbase commerce PHP8 library",
     "type": "library",
     "license": "MIT",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "guzzlehttp/guzzle": "^7.0.1",
-        "illuminate/collections": "^8.0|^9.0"
+        "guzzlehttp/guzzle": "^7.8",
+        "illuminate/collections": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
